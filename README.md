@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0039-combination-sum](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0039-combination-sum/) | Medium |
 | [0228-summary-ranges](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0228-summary-ranges/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/ish-g09/DSA-in-JAVA/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -73,4 +74,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0257-binary-tree-paths](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0257-binary-tree-paths/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/ish-g09/DSA-in-JAVA/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/ish-g09/DSA-in-JAVA/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 <!---LeetCode Topics End-->
