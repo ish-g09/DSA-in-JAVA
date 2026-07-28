@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0628-maximum-product-of-three-numbers](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0994-rotting-oranges](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0994-rotting-oranges/) | Medium |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/ish-g09/DSA-in-JAVA/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1094-car-pooling](https://github.com/ish-g09/DSA-in-JAVA/tree/main/1094-car-pooling/) | Medium |
 | [1109-corporate-flight-bookings](https://github.com/ish-g09/DSA-in-JAVA/tree/main/1109-corporate-flight-bookings/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ish-g09/DSA-in-JAVA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -149,4 +150,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0875-koko-eating-bananas](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0875-koko-eating-bananas/) | Medium |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/ish-g09/DSA-in-JAVA/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 <!---LeetCode Topics End-->
