@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0257-binary-tree-paths](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0257-binary-tree-paths/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/ish-g09/DSA-in-JAVA/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/ish-g09/DSA-in-JAVA/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -58,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0628-maximum-product-of-three-numbers](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1094-car-pooling](https://github.com/ish-g09/DSA-in-JAVA/tree/main/1094-car-pooling/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ish-g09/DSA-in-JAVA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/ish-g09/DSA-in-JAVA/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -116,4 +118,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1094-car-pooling](https://github.com/ish-g09/DSA-in-JAVA/tree/main/1094-car-pooling/) | Medium |
 | [1109-corporate-flight-bookings](https://github.com/ish-g09/DSA-in-JAVA/tree/main/1109-corporate-flight-bookings/) | Medium |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/ish-g09/DSA-in-JAVA/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 <!---LeetCode Topics End-->
