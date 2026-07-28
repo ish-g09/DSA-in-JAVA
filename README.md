@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0071-simplify-path](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0071-simplify-path/) | Medium |
 | [0257-binary-tree-paths](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0257-binary-tree-paths/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/ish-g09/DSA-in-JAVA/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ish-g09/DSA-in-JAVA/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
@@ -137,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0071-simplify-path](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0071-simplify-path/) | Medium |
 | [2104-sum-of-subarray-ranges](https://github.com/ish-g09/DSA-in-JAVA/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
