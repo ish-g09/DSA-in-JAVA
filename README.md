@@ -1,5 +1,29 @@
-# DSA-in-JAVA
-Collection of LeetCode questions to ace the coding interview! - Created using [LeetHub-3.0](https://github.com/raphaelheinz/LeetHub-3.0)
+# DSA in Java
+
+A structured collection of **Data Structures & Algorithms problems solved in Java**, primarily focused on building strong problem-solving fundamentals and preparing for technical interviews.
+
+---
+
+## 📚 What's Inside
+
+This repository contains solutions covering a wide range of DSA topics, including:
+
+- Arrays & Strings
+- Hashing
+- Two Pointers & Sliding Window
+- Binary Search
+- Linked Lists
+- Stacks & Queues
+- Trees & Binary Trees
+- Graphs
+- Recursion & Backtracking
+- Dynamic Programming
+- Heaps & Priority Queues
+- Greedy Algorithms
+- Bit Manipulation
+- Mathematical & Miscellaneous Problems
+
+---
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
