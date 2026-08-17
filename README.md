@@ -64,6 +64,7 @@ This repository contains solutions covering a wide range of DSA topics, includin
 | [0560-subarray-sum-equals-k](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0735-asteroid-collision](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0735-asteroid-collision/) | Medium |
+| [0739-daily-temperatures](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0739-daily-temperatures/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0877-stone-game](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0877-stone-game/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0907-sum-of-subarray-minimums/) | Medium |
@@ -216,6 +217,7 @@ This repository contains solutions covering a wide range of DSA topics, includin
 | [0496-next-greater-element-i](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0735-asteroid-collision](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0735-asteroid-collision/) | Medium |
+| [0739-daily-temperatures](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0739-daily-temperatures/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [2104-sum-of-subarray-ranges](https://github.com/ish-g09/DSA-in-JAVA/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 ## Monotonic Stack
@@ -224,6 +226,7 @@ This repository contains solutions covering a wide range of DSA topics, includin
 | [0402-remove-k-digits](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0402-remove-k-digits/) | Medium |
 | [0496-next-greater-element-i](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0739-daily-temperatures](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0739-daily-temperatures/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [2104-sum-of-subarray-ranges](https://github.com/ish-g09/DSA-in-JAVA/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 ## Binary Search
