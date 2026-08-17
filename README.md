@@ -203,10 +203,12 @@ This repository contains solutions covering a wide range of DSA topics, includin
 | ------- | ------- |
 | [0155-min-stack](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0155-min-stack/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0295-find-median-from-data-stream/) | Hard |
+| [0901-online-stock-span](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0901-online-stock-span/) | Medium |
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0295-find-median-from-data-stream](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0295-find-median-from-data-stream/) | Hard |
+| [0901-online-stock-span](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0901-online-stock-span/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -218,6 +220,7 @@ This repository contains solutions covering a wide range of DSA topics, includin
 | [0503-next-greater-element-ii](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0735-asteroid-collision](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0739-daily-temperatures/) | Medium |
+| [0901-online-stock-span](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0901-online-stock-span/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [2104-sum-of-subarray-ranges](https://github.com/ish-g09/DSA-in-JAVA/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 ## Monotonic Stack
@@ -227,6 +230,7 @@ This repository contains solutions covering a wide range of DSA topics, includin
 | [0496-next-greater-element-i](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0739-daily-temperatures/) | Medium |
+| [0901-online-stock-span](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0901-online-stock-span/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [2104-sum-of-subarray-ranges](https://github.com/ish-g09/DSA-in-JAVA/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 ## Binary Search
