@@ -47,6 +47,7 @@ This repository contains solutions covering a wide range of DSA topics, includin
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0001-two-sum/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0027-remove-element/) | Easy |
 | [0039-combination-sum](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0039-combination-sum/) | Medium |
@@ -92,6 +93,7 @@ This repository contains solutions covering a wide range of DSA topics, includin
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0001-two-sum/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0299-bulls-and-cows](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0299-bulls-and-cows/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0347-top-k-frequent-elements/) | Medium |
