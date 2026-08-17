@@ -48,6 +48,7 @@ This repository contains solutions covering a wide range of DSA topics, includin
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0001-two-sum/) | Easy |
+| [0011-container-with-most-water](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0011-container-with-most-water/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0027-remove-element/) | Easy |
 | [0039-combination-sum](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0039-combination-sum/) | Medium |
@@ -80,6 +81,7 @@ This repository contains solutions covering a wide range of DSA topics, includin
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0011-container-with-most-water/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0027-remove-element/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -236,6 +238,7 @@ This repository contains solutions covering a wide range of DSA topics, includin
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0011-container-with-most-water/) | Medium |
 | [0402-remove-k-digits](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0402-remove-k-digits/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ish-g09/DSA-in-JAVA/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ish-g09/DSA-in-JAVA/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
