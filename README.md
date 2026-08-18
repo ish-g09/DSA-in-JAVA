@@ -64,6 +64,7 @@ This repository contains solutions covering a wide range of DSA topics, includin
 | [0525-contiguous-array](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0661-image-smoother](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0661-image-smoother/) | Easy |
 | [0735-asteroid-collision](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0739-daily-temperatures/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0875-koko-eating-bananas/) | Medium |
@@ -184,6 +185,7 @@ This repository contains solutions covering a wide range of DSA topics, includin
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0289-game-of-life](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0289-game-of-life/) | Medium |
+| [0661-image-smoother](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0661-image-smoother/) | Easy |
 | [0994-rotting-oranges](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0994-rotting-oranges/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
