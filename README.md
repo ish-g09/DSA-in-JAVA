@@ -79,6 +79,7 @@ This repository contains solutions covering a wide range of DSA topics, includin
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ish-g09/DSA-in-JAVA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ish-g09/DSA-in-JAVA/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1552-magnetic-force-between-two-balls](https://github.com/ish-g09/DSA-in-JAVA/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
+| [1861-rotating-the-box](https://github.com/ish-g09/DSA-in-JAVA/tree/main/1861-rotating-the-box/) | Medium |
 | [2104-sum-of-subarray-ranges](https://github.com/ish-g09/DSA-in-JAVA/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 | [2451-odd-string-difference](https://github.com/ish-g09/DSA-in-JAVA/tree/main/2451-odd-string-difference/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ish-g09/DSA-in-JAVA/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -93,6 +94,7 @@ This repository contains solutions covering a wide range of DSA topics, includin
 | [0027-remove-element](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0027-remove-element/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0295-find-median-from-data-stream/) | Hard |
+| [1861-rotating-the-box](https://github.com/ish-g09/DSA-in-JAVA/tree/main/1861-rotating-the-box/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -190,6 +192,7 @@ This repository contains solutions covering a wide range of DSA topics, includin
 | [0289-game-of-life](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0289-game-of-life/) | Medium |
 | [0661-image-smoother](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0661-image-smoother/) | Easy |
 | [0994-rotting-oranges](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0994-rotting-oranges/) | Medium |
+| [1861-rotating-the-box](https://github.com/ish-g09/DSA-in-JAVA/tree/main/1861-rotating-the-box/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
