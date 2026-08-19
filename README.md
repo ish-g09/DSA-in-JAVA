@@ -75,6 +75,7 @@ This repository contains solutions covering a wide range of DSA topics, includin
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ish-g09/DSA-in-JAVA/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1094-car-pooling](https://github.com/ish-g09/DSA-in-JAVA/tree/main/1094-car-pooling/) | Medium |
 | [1109-corporate-flight-bookings](https://github.com/ish-g09/DSA-in-JAVA/tree/main/1109-corporate-flight-bookings/) | Medium |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/ish-g09/DSA-in-JAVA/tree/main/1353-maximum-number-of-events-that-can-be-attended/) | Medium |
 | [1389-create-target-array-in-the-given-order](https://github.com/ish-g09/DSA-in-JAVA/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ish-g09/DSA-in-JAVA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ish-g09/DSA-in-JAVA/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
@@ -127,6 +128,7 @@ This repository contains solutions covering a wide range of DSA topics, includin
 | [0347-top-k-frequent-elements](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1094-car-pooling](https://github.com/ish-g09/DSA-in-JAVA/tree/main/1094-car-pooling/) | Medium |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/ish-g09/DSA-in-JAVA/tree/main/1353-maximum-number-of-events-that-can-be-attended/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ish-g09/DSA-in-JAVA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1552-magnetic-force-between-two-balls](https://github.com/ish-g09/DSA-in-JAVA/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ish-g09/DSA-in-JAVA/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -139,6 +141,7 @@ This repository contains solutions covering a wide range of DSA topics, includin
 | [0295-find-median-from-data-stream](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [1094-car-pooling](https://github.com/ish-g09/DSA-in-JAVA/tree/main/1094-car-pooling/) | Medium |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/ish-g09/DSA-in-JAVA/tree/main/1353-maximum-number-of-events-that-can-be-attended/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ish-g09/DSA-in-JAVA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 ## Bucket Sort
 | Problem Name | Difficulty |
@@ -262,6 +265,7 @@ This repository contains solutions covering a wide range of DSA topics, includin
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0011-container-with-most-water/) | Medium |
 | [0402-remove-k-digits](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0402-remove-k-digits/) | Medium |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/ish-g09/DSA-in-JAVA/tree/main/1353-maximum-number-of-events-that-can-be-attended/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ish-g09/DSA-in-JAVA/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ish-g09/DSA-in-JAVA/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 ## Sliding Window
