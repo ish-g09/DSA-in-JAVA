@@ -57,6 +57,7 @@ This repository contains solutions covering a wide range of DSA topics, includin
 | [0150-evaluate-reverse-polish-notation](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0217-contains-duplicate](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0217-contains-duplicate/) | Easy |
 | [0228-summary-ranges](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0228-summary-ranges/) | Easy |
 | [0289-game-of-life](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0289-game-of-life/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -107,6 +108,7 @@ This repository contains solutions covering a wide range of DSA topics, includin
 | ------- | ------- |
 | [0001-two-sum](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0001-two-sum/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0217-contains-duplicate](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0217-contains-duplicate/) | Easy |
 | [0299-bulls-and-cows](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0299-bulls-and-cows/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0496-next-greater-element-i](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0496-next-greater-element-i/) | Easy |
@@ -124,6 +126,7 @@ This repository contains solutions covering a wide range of DSA topics, includin
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0217-contains-duplicate](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0217-contains-duplicate/) | Easy |
 | [0295-find-median-from-data-stream](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
