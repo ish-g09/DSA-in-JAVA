@@ -113,6 +113,7 @@ This repository contains solutions covering a wide range of DSA topics, includin
 | ------- | ------- |
 | [0001-two-sum](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0001-two-sum/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0138-copy-list-with-random-pointer](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0217-contains-duplicate](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0217-contains-duplicate/) | Easy |
 | [0299-bulls-and-cows](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0299-bulls-and-cows/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -313,4 +314,8 @@ This repository contains solutions covering a wide range of DSA topics, includin
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0394-decode-string](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0394-decode-string/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0138-copy-list-with-random-pointer](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 <!---LeetCode Topics End-->
