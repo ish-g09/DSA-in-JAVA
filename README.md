@@ -318,4 +318,8 @@ This repository contains solutions covering a wide range of DSA topics, includin
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0138-copy-list-with-random-pointer/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0175-combine-two-tables](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0175-combine-two-tables/) | Easy |
 <!---LeetCode Topics End-->
