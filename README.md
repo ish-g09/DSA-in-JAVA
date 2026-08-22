@@ -86,6 +86,7 @@ This repository contains solutions covering a wide range of DSA topics, includin
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ish-g09/DSA-in-JAVA/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1552-magnetic-force-between-two-balls](https://github.com/ish-g09/DSA-in-JAVA/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1861-rotating-the-box](https://github.com/ish-g09/DSA-in-JAVA/tree/main/1861-rotating-the-box/) | Medium |
+| [2049-count-nodes-with-the-highest-score](https://github.com/ish-g09/DSA-in-JAVA/tree/main/2049-count-nodes-with-the-highest-score/) | Medium |
 | [2104-sum-of-subarray-ranges](https://github.com/ish-g09/DSA-in-JAVA/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 | [2451-odd-string-difference](https://github.com/ish-g09/DSA-in-JAVA/tree/main/2451-odd-string-difference/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ish-g09/DSA-in-JAVA/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -176,15 +177,18 @@ This repository contains solutions covering a wide range of DSA topics, includin
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0257-binary-tree-paths](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0257-binary-tree-paths/) | Easy |
+| [2049-count-nodes-with-the-highest-score](https://github.com/ish-g09/DSA-in-JAVA/tree/main/2049-count-nodes-with-the-highest-score/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0257-binary-tree-paths](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0257-binary-tree-paths/) | Easy |
+| [2049-count-nodes-with-the-highest-score](https://github.com/ish-g09/DSA-in-JAVA/tree/main/2049-count-nodes-with-the-highest-score/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/ish-g09/DSA-in-JAVA/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0257-binary-tree-paths](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0257-binary-tree-paths/) | Easy |
+| [2049-count-nodes-with-the-highest-score](https://github.com/ish-g09/DSA-in-JAVA/tree/main/2049-count-nodes-with-the-highest-score/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -326,4 +330,8 @@ This repository contains solutions covering a wide range of DSA topics, includin
 | [0181-employees-earning-more-than-their-managers](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
 | [0584-find-customer-referee](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0584-find-customer-referee/) | Easy |
 | [0620-not-boring-movies](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0620-not-boring-movies/) | Easy |
+## DP on Trees
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2049-count-nodes-with-the-highest-score](https://github.com/ish-g09/DSA-in-JAVA/tree/main/2049-count-nodes-with-the-highest-score/) | Medium |
 <!---LeetCode Topics End-->
