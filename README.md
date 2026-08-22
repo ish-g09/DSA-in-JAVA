@@ -31,6 +31,7 @@ This repository contains solutions covering a wide range of DSA topics, includin
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0049-group-anagrams](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0049-group-anagrams/) | Medium |
 | [0071-simplify-path](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0071-simplify-path/) | Medium |
 | [0257-binary-tree-paths](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0257-binary-tree-paths/) | Easy |
 | [0299-bulls-and-cows](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0299-bulls-and-cows/) | Medium |
@@ -55,6 +56,7 @@ This repository contains solutions covering a wide range of DSA topics, includin
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0027-remove-element/) | Easy |
 | [0039-combination-sum](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0039-combination-sum/) | Medium |
+| [0049-group-anagrams](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0049-group-anagrams/) | Medium |
 | [0066-plus-one](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0066-plus-one/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -114,6 +116,7 @@ This repository contains solutions covering a wide range of DSA topics, includin
 | ------- | ------- |
 | [0001-two-sum](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0001-two-sum/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0049-group-anagrams](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0049-group-anagrams/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0217-contains-duplicate](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0217-contains-duplicate/) | Easy |
 | [0299-bulls-and-cows](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0299-bulls-and-cows/) | Medium |
@@ -136,6 +139,7 @@ This repository contains solutions covering a wide range of DSA topics, includin
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0049-group-anagrams/) | Medium |
 | [0217-contains-duplicate](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0217-contains-duplicate/) | Easy |
 | [0295-find-median-from-data-stream](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0347-top-k-frequent-elements/) | Medium |
