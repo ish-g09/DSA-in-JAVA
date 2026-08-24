@@ -195,18 +195,21 @@ This repository contains solutions covering a wide range of DSA topics, includin
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0129-sum-root-to-leaf-numbers](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0257-binary-tree-paths](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0257-binary-tree-paths/) | Easy |
 | [2049-count-nodes-with-the-highest-score](https://github.com/ish-g09/DSA-in-JAVA/tree/main/2049-count-nodes-with-the-highest-score/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0079-word-search](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0079-word-search/) | Medium |
+| [0129-sum-root-to-leaf-numbers](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0257-binary-tree-paths](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0257-binary-tree-paths/) | Easy |
 | [2049-count-nodes-with-the-highest-score](https://github.com/ish-g09/DSA-in-JAVA/tree/main/2049-count-nodes-with-the-highest-score/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/ish-g09/DSA-in-JAVA/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0129-sum-root-to-leaf-numbers](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0257-binary-tree-paths](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0257-binary-tree-paths/) | Easy |
 | [2049-count-nodes-with-the-highest-score](https://github.com/ish-g09/DSA-in-JAVA/tree/main/2049-count-nodes-with-the-highest-score/) | Medium |
 ## Math
