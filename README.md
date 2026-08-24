@@ -202,6 +202,7 @@ This repository contains solutions covering a wide range of DSA topics, includin
 | [0129-sum-root-to-leaf-numbers](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0257-binary-tree-paths](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0257-binary-tree-paths/) | Easy |
 | [0538-convert-bst-to-greater-tree](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/ish-g09/DSA-in-JAVA/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
 | [2049-count-nodes-with-the-highest-score](https://github.com/ish-g09/DSA-in-JAVA/tree/main/2049-count-nodes-with-the-highest-score/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -210,6 +211,7 @@ This repository contains solutions covering a wide range of DSA topics, includin
 | [0129-sum-root-to-leaf-numbers](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0257-binary-tree-paths](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0257-binary-tree-paths/) | Easy |
 | [0538-convert-bst-to-greater-tree](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/ish-g09/DSA-in-JAVA/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
 | [2049-count-nodes-with-the-highest-score](https://github.com/ish-g09/DSA-in-JAVA/tree/main/2049-count-nodes-with-the-highest-score/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/ish-g09/DSA-in-JAVA/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Binary Tree
@@ -218,6 +220,7 @@ This repository contains solutions covering a wide range of DSA topics, includin
 | [0129-sum-root-to-leaf-numbers](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0257-binary-tree-paths](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0257-binary-tree-paths/) | Easy |
 | [0538-convert-bst-to-greater-tree](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/ish-g09/DSA-in-JAVA/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
 | [2049-count-nodes-with-the-highest-score](https://github.com/ish-g09/DSA-in-JAVA/tree/main/2049-count-nodes-with-the-highest-score/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -389,4 +392,5 @@ This repository contains solutions covering a wide range of DSA topics, includin
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0538-convert-bst-to-greater-tree](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/ish-g09/DSA-in-JAVA/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
 <!---LeetCode Topics End-->
