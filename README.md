@@ -105,6 +105,7 @@ This repository contains solutions covering a wide range of DSA topics, includin
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ish-g09/DSA-in-JAVA/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3071-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/ish-g09/DSA-in-JAVA/tree/main/3071-minimum-operations-to-write-the-letter-y-on-a-grid/) | Medium |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ish-g09/DSA-in-JAVA/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
+| [3718-smallest-missing-multiple-of-k](https://github.com/ish-g09/DSA-in-JAVA/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/ish-g09/DSA-in-JAVA/tree/main/3731-find-missing-elements/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -144,6 +145,7 @@ This repository contains solutions covering a wide range of DSA topics, includin
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ish-g09/DSA-in-JAVA/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3046-split-the-array](https://github.com/ish-g09/DSA-in-JAVA/tree/main/3046-split-the-array/) | Easy |
 | [3071-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/ish-g09/DSA-in-JAVA/tree/main/3071-minimum-operations-to-write-the-letter-y-on-a-grid/) | Medium |
+| [3718-smallest-missing-multiple-of-k](https://github.com/ish-g09/DSA-in-JAVA/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/ish-g09/DSA-in-JAVA/tree/main/3731-find-missing-elements/) | Easy |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/ish-g09/DSA-in-JAVA/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 ## Divide and Conquer
