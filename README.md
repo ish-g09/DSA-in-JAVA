@@ -93,6 +93,7 @@ This repository contains solutions covering a wide range of DSA topics, includin
 | [1389-create-target-array-in-the-given-order](https://github.com/ish-g09/DSA-in-JAVA/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ish-g09/DSA-in-JAVA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ish-g09/DSA-in-JAVA/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
+| [1512-number-of-good-pairs](https://github.com/ish-g09/DSA-in-JAVA/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1552-magnetic-force-between-two-balls](https://github.com/ish-g09/DSA-in-JAVA/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ish-g09/DSA-in-JAVA/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 | [1861-rotating-the-box](https://github.com/ish-g09/DSA-in-JAVA/tree/main/1861-rotating-the-box/) | Medium |
@@ -139,6 +140,7 @@ This repository contains solutions covering a wide range of DSA topics, includin
 | [0560-subarray-sum-equals-k](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0697-degree-of-an-array](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0697-degree-of-an-array/) | Easy |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/ish-g09/DSA-in-JAVA/tree/main/1010-pairs-of-songs-with-total-durations-divisible-by-60/) | Medium |
+| [1512-number-of-good-pairs](https://github.com/ish-g09/DSA-in-JAVA/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/ish-g09/DSA-in-JAVA/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2451-odd-string-difference](https://github.com/ish-g09/DSA-in-JAVA/tree/main/2451-odd-string-difference/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ish-g09/DSA-in-JAVA/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -189,6 +191,7 @@ This repository contains solutions covering a wide range of DSA topics, includin
 | [0299-bulls-and-cows](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0299-bulls-and-cows/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/ish-g09/DSA-in-JAVA/tree/main/1010-pairs-of-songs-with-total-durations-divisible-by-60/) | Medium |
+| [1512-number-of-good-pairs](https://github.com/ish-g09/DSA-in-JAVA/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/ish-g09/DSA-in-JAVA/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ish-g09/DSA-in-JAVA/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3046-split-the-array](https://github.com/ish-g09/DSA-in-JAVA/tree/main/3046-split-the-array/) | Easy |
@@ -234,6 +237,7 @@ This repository contains solutions covering a wide range of DSA topics, includin
 | [0628-maximum-product-of-three-numbers](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0877-stone-game](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0877-stone-game/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [1512-number-of-good-pairs](https://github.com/ish-g09/DSA-in-JAVA/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1927-sum-game](https://github.com/ish-g09/DSA-in-JAVA/tree/main/1927-sum-game/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ish-g09/DSA-in-JAVA/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ish-g09/DSA-in-JAVA/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
