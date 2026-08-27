@@ -228,6 +228,7 @@ This repository contains solutions covering a wide range of DSA topics, includin
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0066-plus-one](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0066-plus-one/) | Easy |
+| [0069-sqrtx](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0069-sqrtx/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -317,6 +318,7 @@ This repository contains solutions covering a wide range of DSA topics, includin
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0069-sqrtx](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0069-sqrtx/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0875-koko-eating-bananas/) | Medium |
@@ -395,4 +397,8 @@ This repository contains solutions covering a wide range of DSA topics, includin
 | ------- | ------- |
 | [0538-convert-bst-to-greater-tree](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/ish-g09/DSA-in-JAVA/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
+## Newton's Method
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0069-sqrtx/) | Easy |
 <!---LeetCode Topics End-->
