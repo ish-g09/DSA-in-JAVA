@@ -377,6 +377,7 @@ This repository contains solutions covering a wide range of DSA topics, includin
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0138-copy-list-with-random-pointer/) | Medium |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/ish-g09/DSA-in-JAVA/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/ish-g09/DSA-in-JAVA/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 ## Database
 | Problem Name | Difficulty |
