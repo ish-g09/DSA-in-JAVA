@@ -62,6 +62,7 @@ This repository contains solutions covering a wide range of DSA topics, includin
 | [0027-remove-element](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0027-remove-element/) | Easy |
 | [0039-combination-sum](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0039-combination-sum/) | Medium |
 | [0049-group-anagrams](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0049-group-anagrams/) | Medium |
+| [0053-maximum-subarray](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0053-maximum-subarray/) | Medium |
 | [0066-plus-one](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0066-plus-one/) | Easy |
 | [0079-word-search](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0079-word-search/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
@@ -157,6 +158,7 @@ This repository contains solutions covering a wide range of DSA topics, includin
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0053-maximum-subarray/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Sorting
@@ -355,6 +357,7 @@ This repository contains solutions covering a wide range of DSA topics, includin
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0053-maximum-subarray/) | Medium |
 | [0070-climbing-stairs](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0070-climbing-stairs/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0877-stone-game](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0877-stone-game/) | Medium |
