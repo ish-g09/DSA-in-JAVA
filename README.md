@@ -114,6 +114,7 @@ This repository contains solutions covering a wide range of DSA topics, includin
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ish-g09/DSA-in-JAVA/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ish-g09/DSA-in-JAVA/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/ish-g09/DSA-in-JAVA/tree/main/3731-find-missing-elements/) | Easy |
+| [3875-construct-uniform-parity-array-i](https://github.com/ish-g09/DSA-in-JAVA/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -254,6 +255,7 @@ This repository contains solutions covering a wide range of DSA topics, includin
 | [3345-smallest-divisible-digit-product-i](https://github.com/ish-g09/DSA-in-JAVA/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ish-g09/DSA-in-JAVA/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ish-g09/DSA-in-JAVA/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
+| [3875-construct-uniform-parity-array-i](https://github.com/ish-g09/DSA-in-JAVA/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
