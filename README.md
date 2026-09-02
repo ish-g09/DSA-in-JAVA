@@ -66,6 +66,7 @@ This repository contains solutions covering a wide range of DSA topics, includin
 | [0066-plus-one](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0066-plus-one/) | Easy |
 | [0079-word-search](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0079-word-search/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0152-maximum-product-subarray](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0217-contains-duplicate](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0217-contains-duplicate/) | Easy |
@@ -363,6 +364,7 @@ This repository contains solutions covering a wide range of DSA topics, includin
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0053-maximum-subarray/) | Medium |
 | [0070-climbing-stairs](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0070-climbing-stairs/) | Easy |
+| [0152-maximum-product-subarray](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0877-stone-game](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0877-stone-game/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0907-sum-of-subarray-minimums/) | Medium |
