@@ -242,6 +242,7 @@ This repository contains solutions covering a wide range of DSA topics, includin
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0062-unique-paths](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0062-unique-paths/) | Medium |
 | [0066-plus-one](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0066-plus-one/) | Easy |
 | [0069-sqrtx](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0070-climbing-stairs/) | Easy |
@@ -365,6 +366,7 @@ This repository contains solutions covering a wide range of DSA topics, includin
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0053-maximum-subarray/) | Medium |
+| [0062-unique-paths](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0070-climbing-stairs/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0746-min-cost-climbing-stairs/) | Easy |
@@ -446,4 +448,8 @@ This repository contains solutions covering a wide range of DSA topics, includin
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0062-unique-paths/) | Medium |
 <!---LeetCode Topics End-->
