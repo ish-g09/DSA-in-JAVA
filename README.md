@@ -73,6 +73,7 @@ This repository contains solutions covering a wide range of DSA topics, includin
 | [0217-contains-duplicate](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0217-contains-duplicate/) | Easy |
 | [0228-summary-ranges](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0228-summary-ranges/) | Easy |
 | [0289-game-of-life](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0289-game-of-life/) | Medium |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0496-next-greater-element-i](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0496-next-greater-element-i/) | Easy |
@@ -228,6 +229,7 @@ This repository contains solutions covering a wide range of DSA topics, includin
 | [0079-word-search](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0079-word-search/) | Medium |
 | [0129-sum-root-to-leaf-numbers](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0257-binary-tree-paths](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0257-binary-tree-paths/) | Easy |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0538-convert-bst-to-greater-tree](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/ish-g09/DSA-in-JAVA/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
 | [2049-count-nodes-with-the-highest-score](https://github.com/ish-g09/DSA-in-JAVA/tree/main/2049-count-nodes-with-the-highest-score/) | Medium |
@@ -269,6 +271,7 @@ This repository contains solutions covering a wide range of DSA topics, includin
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0994-rotting-oranges](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0994-rotting-oranges/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/ish-g09/DSA-in-JAVA/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Matrix
@@ -277,6 +280,7 @@ This repository contains solutions covering a wide range of DSA topics, includin
 | [0064-minimum-path-sum](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0064-minimum-path-sum/) | Medium |
 | [0079-word-search](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0079-word-search/) | Medium |
 | [0289-game-of-life](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0289-game-of-life/) | Medium |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0661-image-smoother](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0661-image-smoother/) | Easy |
 | [0994-rotting-oranges](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0994-rotting-oranges/) | Medium |
 | [1861-rotating-the-box](https://github.com/ish-g09/DSA-in-JAVA/tree/main/1861-rotating-the-box/) | Medium |
@@ -372,6 +376,7 @@ This repository contains solutions covering a wide range of DSA topics, includin
 | [0064-minimum-path-sum](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0064-minimum-path-sum/) | Medium |
 | [0070-climbing-stairs](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0070-climbing-stairs/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0746-min-cost-climbing-stairs](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0877-stone-game](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0877-stone-game/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0907-sum-of-subarray-minimums/) | Medium |
@@ -392,6 +397,7 @@ This repository contains solutions covering a wide range of DSA topics, includin
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [3310-remove-methods-from-project](https://github.com/ish-g09/DSA-in-JAVA/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
@@ -443,6 +449,7 @@ This repository contains solutions covering a wide range of DSA topics, includin
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0070-climbing-stairs/) | Easy |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -455,4 +462,12 @@ This repository contains solutions covering a wide range of DSA topics, includin
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0062-unique-paths/) | Medium |
+## Topological Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
+## Directed Acyclic Graph
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 <!---LeetCode Topics End-->
