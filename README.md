@@ -63,6 +63,7 @@ This repository contains solutions covering a wide range of DSA topics, includin
 | [0039-combination-sum](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0039-combination-sum/) | Medium |
 | [0049-group-anagrams](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0053-maximum-subarray/) | Medium |
+| [0064-minimum-path-sum](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0064-minimum-path-sum/) | Medium |
 | [0066-plus-one](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0066-plus-one/) | Easy |
 | [0079-word-search](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0079-word-search/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
@@ -273,6 +274,7 @@ This repository contains solutions covering a wide range of DSA topics, includin
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0064-minimum-path-sum](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0064-minimum-path-sum/) | Medium |
 | [0079-word-search](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0079-word-search/) | Medium |
 | [0289-game-of-life](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0289-game-of-life/) | Medium |
 | [0661-image-smoother](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0661-image-smoother/) | Easy |
@@ -367,6 +369,7 @@ This repository contains solutions covering a wide range of DSA topics, includin
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0053-maximum-subarray/) | Medium |
 | [0062-unique-paths](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0062-unique-paths/) | Medium |
+| [0064-minimum-path-sum](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0064-minimum-path-sum/) | Medium |
 | [0070-climbing-stairs](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0070-climbing-stairs/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0746-min-cost-climbing-stairs/) | Easy |
