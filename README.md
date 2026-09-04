@@ -257,6 +257,7 @@ This repository contains solutions covering a wide range of DSA topics, includin
 | [0973-k-closest-points-to-origin](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/ish-g09/DSA-in-JAVA/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1927-sum-game](https://github.com/ish-g09/DSA-in-JAVA/tree/main/1927-sum-game/) | Medium |
+| [2469-convert-the-temperature](https://github.com/ish-g09/DSA-in-JAVA/tree/main/2469-convert-the-temperature/) | Easy |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/ish-g09/DSA-in-JAVA/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ish-g09/DSA-in-JAVA/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ish-g09/DSA-in-JAVA/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
