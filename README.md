@@ -119,6 +119,7 @@ This repository contains solutions covering a wide range of DSA topics, includin
 | [3731-find-missing-elements](https://github.com/ish-g09/DSA-in-JAVA/tree/main/3731-find-missing-elements/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/ish-g09/DSA-in-JAVA/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/ish-g09/DSA-in-JAVA/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
+| [3903-smallest-stable-index-i](https://github.com/ish-g09/DSA-in-JAVA/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -303,6 +304,7 @@ This repository contains solutions covering a wide range of DSA topics, includin
 | [1094-car-pooling](https://github.com/ish-g09/DSA-in-JAVA/tree/main/1094-car-pooling/) | Medium |
 | [1109-corporate-flight-bookings](https://github.com/ish-g09/DSA-in-JAVA/tree/main/1109-corporate-flight-bookings/) | Medium |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ish-g09/DSA-in-JAVA/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
+| [3903-smallest-stable-index-i](https://github.com/ish-g09/DSA-in-JAVA/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
