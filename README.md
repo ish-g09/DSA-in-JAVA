@@ -39,6 +39,7 @@ This repository contains solutions covering a wide range of DSA topics, includin
 | [0394-decode-string](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0394-decode-string/) | Medium |
 | [0402-remove-k-digits](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0402-remove-k-digits/) | Medium |
 | [1678-goal-parser-interpretation](https://github.com/ish-g09/DSA-in-JAVA/tree/main/1678-goal-parser-interpretation/) | Easy |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/ish-g09/DSA-in-JAVA/tree/main/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ish-g09/DSA-in-JAVA/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/ish-g09/DSA-in-JAVA/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [1927-sum-game](https://github.com/ish-g09/DSA-in-JAVA/tree/main/1927-sum-game/) | Medium |
@@ -365,6 +366,7 @@ This repository contains solutions covering a wide range of DSA topics, includin
 | [0011-container-with-most-water](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0011-container-with-most-water/) | Medium |
 | [0402-remove-k-digits](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0402-remove-k-digits/) | Medium |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/ish-g09/DSA-in-JAVA/tree/main/1353-maximum-number-of-events-that-can-be-attended/) | Medium |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/ish-g09/DSA-in-JAVA/tree/main/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
 | [1927-sum-game](https://github.com/ish-g09/DSA-in-JAVA/tree/main/1927-sum-game/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ish-g09/DSA-in-JAVA/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ish-g09/DSA-in-JAVA/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
