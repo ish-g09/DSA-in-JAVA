@@ -52,6 +52,7 @@ This repository contains solutions covering a wide range of DSA topics, includin
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/ish-g09/DSA-in-JAVA/tree/main/2044-count-number-of-maximum-bitwise-or-subsets/) | Medium |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ish-g09/DSA-in-JAVA/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/ish-g09/DSA-in-JAVA/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 ## Array
@@ -105,6 +106,7 @@ This repository contains solutions covering a wide range of DSA topics, includin
 | [1552-magnetic-force-between-two-balls](https://github.com/ish-g09/DSA-in-JAVA/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ish-g09/DSA-in-JAVA/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 | [1861-rotating-the-box](https://github.com/ish-g09/DSA-in-JAVA/tree/main/1861-rotating-the-box/) | Medium |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/ish-g09/DSA-in-JAVA/tree/main/2044-count-number-of-maximum-bitwise-or-subsets/) | Medium |
 | [2049-count-nodes-with-the-highest-score](https://github.com/ish-g09/DSA-in-JAVA/tree/main/2049-count-nodes-with-the-highest-score/) | Medium |
 | [2104-sum-of-subarray-ranges](https://github.com/ish-g09/DSA-in-JAVA/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/ish-g09/DSA-in-JAVA/tree/main/2433-find-the-original-array-of-prefix-xor/) | Medium |
@@ -138,6 +140,7 @@ This repository contains solutions covering a wide range of DSA topics, includin
 | [0039-combination-sum](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0039-combination-sum/) | Medium |
 | [0079-word-search](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0079-word-search/) | Medium |
 | [0257-binary-tree-paths](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0257-binary-tree-paths/) | Easy |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/ish-g09/DSA-in-JAVA/tree/main/2044-count-number-of-maximum-bitwise-or-subsets/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -273,6 +276,7 @@ This repository contains solutions covering a wide range of DSA topics, includin
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/ish-g09/DSA-in-JAVA/tree/main/2044-count-number-of-maximum-bitwise-or-subsets/) | Medium |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/ish-g09/DSA-in-JAVA/tree/main/2433-find-the-original-array-of-prefix-xor/) | Medium |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ish-g09/DSA-in-JAVA/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 ## Breadth-First Search
