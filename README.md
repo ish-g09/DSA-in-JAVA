@@ -54,6 +54,7 @@ This repository contains solutions covering a wide range of DSA topics, includin
 | ------- | ------- |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/ish-g09/DSA-in-JAVA/tree/main/2044-count-number-of-maximum-bitwise-or-subsets/) | Medium |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ish-g09/DSA-in-JAVA/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/ish-g09/DSA-in-JAVA/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/ish-g09/DSA-in-JAVA/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 ## Array
 | Problem Name | Difficulty |
@@ -117,6 +118,7 @@ This repository contains solutions covering a wide range of DSA topics, includin
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ish-g09/DSA-in-JAVA/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3071-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/ish-g09/DSA-in-JAVA/tree/main/3071-minimum-operations-to-write-the-letter-y-on-a-grid/) | Medium |
 | [3446-sort-matrix-by-diagonals](https://github.com/ish-g09/DSA-in-JAVA/tree/main/3446-sort-matrix-by-diagonals/) | Medium |
+| [3483-unique-3-digit-even-numbers](https://github.com/ish-g09/DSA-in-JAVA/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ish-g09/DSA-in-JAVA/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ish-g09/DSA-in-JAVA/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/ish-g09/DSA-in-JAVA/tree/main/3731-find-missing-elements/) | Easy |
@@ -164,6 +166,7 @@ This repository contains solutions covering a wide range of DSA topics, includin
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ish-g09/DSA-in-JAVA/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3046-split-the-array](https://github.com/ish-g09/DSA-in-JAVA/tree/main/3046-split-the-array/) | Easy |
 | [3071-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/ish-g09/DSA-in-JAVA/tree/main/3071-minimum-operations-to-write-the-letter-y-on-a-grid/) | Medium |
+| [3483-unique-3-digit-even-numbers](https://github.com/ish-g09/DSA-in-JAVA/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ish-g09/DSA-in-JAVA/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/ish-g09/DSA-in-JAVA/tree/main/3731-find-missing-elements/) | Easy |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/ish-g09/DSA-in-JAVA/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
@@ -416,6 +419,7 @@ This repository contains solutions covering a wide range of DSA topics, includin
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0394-decode-string](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0394-decode-string/) | Medium |
+| [3483-unique-3-digit-even-numbers](https://github.com/ish-g09/DSA-in-JAVA/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
