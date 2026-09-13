@@ -89,6 +89,7 @@ This repository contains solutions covering a wide range of DSA topics, includin
 | [0735-asteroid-collision](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0739-daily-temperatures/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0746-min-cost-climbing-stairs/) | Easy |
+| [0835-image-overlap](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0835-image-overlap/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0877-stone-game](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0877-stone-game/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0907-sum-of-subarray-minimums/) | Medium |
@@ -297,6 +298,7 @@ This repository contains solutions covering a wide range of DSA topics, includin
 | [0289-game-of-life](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0289-game-of-life/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0661-image-smoother](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0661-image-smoother/) | Easy |
+| [0835-image-overlap](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0835-image-overlap/) | Medium |
 | [0994-rotting-oranges](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0994-rotting-oranges/) | Medium |
 | [1861-rotating-the-box](https://github.com/ish-g09/DSA-in-JAVA/tree/main/1861-rotating-the-box/) | Medium |
 | [3071-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/ish-g09/DSA-in-JAVA/tree/main/3071-minimum-operations-to-write-the-letter-y-on-a-grid/) | Medium |
