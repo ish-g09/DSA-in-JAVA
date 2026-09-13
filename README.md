@@ -232,6 +232,7 @@ This repository contains solutions covering a wide range of DSA topics, includin
 | [0257-binary-tree-paths](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0257-binary-tree-paths/) | Easy |
 | [0538-convert-bst-to-greater-tree](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/ish-g09/DSA-in-JAVA/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
+| [1302-deepest-leaves-sum](https://github.com/ish-g09/DSA-in-JAVA/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [2049-count-nodes-with-the-highest-score](https://github.com/ish-g09/DSA-in-JAVA/tree/main/2049-count-nodes-with-the-highest-score/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -242,6 +243,7 @@ This repository contains solutions covering a wide range of DSA topics, includin
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0538-convert-bst-to-greater-tree](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/ish-g09/DSA-in-JAVA/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
+| [1302-deepest-leaves-sum](https://github.com/ish-g09/DSA-in-JAVA/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [2049-count-nodes-with-the-highest-score](https://github.com/ish-g09/DSA-in-JAVA/tree/main/2049-count-nodes-with-the-highest-score/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/ish-g09/DSA-in-JAVA/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Binary Tree
@@ -251,6 +253,7 @@ This repository contains solutions covering a wide range of DSA topics, includin
 | [0257-binary-tree-paths](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0257-binary-tree-paths/) | Easy |
 | [0538-convert-bst-to-greater-tree](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/ish-g09/DSA-in-JAVA/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
+| [1302-deepest-leaves-sum](https://github.com/ish-g09/DSA-in-JAVA/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [2049-count-nodes-with-the-highest-score](https://github.com/ish-g09/DSA-in-JAVA/tree/main/2049-count-nodes-with-the-highest-score/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -289,6 +292,7 @@ This repository contains solutions covering a wide range of DSA topics, includin
 | ------- | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0994-rotting-oranges](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0994-rotting-oranges/) | Medium |
+| [1302-deepest-leaves-sum](https://github.com/ish-g09/DSA-in-JAVA/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/ish-g09/DSA-in-JAVA/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
