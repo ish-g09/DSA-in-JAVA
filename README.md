@@ -46,6 +46,7 @@ This repository contains solutions covering a wide range of DSA topics, includin
 | [2451-odd-string-difference](https://github.com/ish-g09/DSA-in-JAVA/tree/main/2451-odd-string-difference/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ish-g09/DSA-in-JAVA/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ish-g09/DSA-in-JAVA/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3498-reverse-degree-of-a-string](https://github.com/ish-g09/DSA-in-JAVA/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/ish-g09/DSA-in-JAVA/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ish-g09/DSA-in-JAVA/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/ish-g09/DSA-in-JAVA/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
@@ -315,6 +316,7 @@ This repository contains solutions covering a wide range of DSA topics, includin
 | [1094-car-pooling](https://github.com/ish-g09/DSA-in-JAVA/tree/main/1094-car-pooling/) | Medium |
 | [1389-create-target-array-in-the-given-order](https://github.com/ish-g09/DSA-in-JAVA/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ish-g09/DSA-in-JAVA/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+| [3498-reverse-degree-of-a-string](https://github.com/ish-g09/DSA-in-JAVA/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
