@@ -122,6 +122,7 @@ This repository contains solutions covering a wide range of DSA topics, includin
 | [3446-sort-matrix-by-diagonals](https://github.com/ish-g09/DSA-in-JAVA/tree/main/3446-sort-matrix-by-diagonals/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/ish-g09/DSA-in-JAVA/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ish-g09/DSA-in-JAVA/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ish-g09/DSA-in-JAVA/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ish-g09/DSA-in-JAVA/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/ish-g09/DSA-in-JAVA/tree/main/3731-find-missing-elements/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/ish-g09/DSA-in-JAVA/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
@@ -277,6 +278,7 @@ This repository contains solutions covering a wide range of DSA topics, includin
 | [3345-smallest-divisible-digit-product-i](https://github.com/ish-g09/DSA-in-JAVA/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ish-g09/DSA-in-JAVA/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3516-find-closest-person](https://github.com/ish-g09/DSA-in-JAVA/tree/main/3516-find-closest-person/) | Easy |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ish-g09/DSA-in-JAVA/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ish-g09/DSA-in-JAVA/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3870-count-commas-in-range](https://github.com/ish-g09/DSA-in-JAVA/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/ish-g09/DSA-in-JAVA/tree/main/3871-count-commas-in-range-ii/) | Medium |
