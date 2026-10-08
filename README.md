@@ -71,6 +71,7 @@ This repository contains solutions covering a wide range of DSA topics, includin
 | [0066-plus-one](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0066-plus-one/) | Easy |
 | [0079-word-search](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0079-word-search/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -385,6 +386,7 @@ This repository contains solutions covering a wide range of DSA topics, includin
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0011-container-with-most-water/) | Medium |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0402-remove-k-digits](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0402-remove-k-digits/) | Medium |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/ish-g09/DSA-in-JAVA/tree/main/1353-maximum-number-of-events-that-can-be-attended/) | Medium |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/ish-g09/DSA-in-JAVA/tree/main/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
@@ -404,6 +406,7 @@ This repository contains solutions covering a wide range of DSA topics, includin
 | [0064-minimum-path-sum](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0064-minimum-path-sum/) | Medium |
 | [0070-climbing-stairs](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0746-min-cost-climbing-stairs](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0746-min-cost-climbing-stairs/) | Easy |
