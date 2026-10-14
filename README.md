@@ -286,6 +286,7 @@ This repository contains solutions covering a wide range of DSA topics, includin
 | [3516-find-closest-person](https://github.com/ish-g09/DSA-in-JAVA/tree/main/3516-find-closest-person/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ish-g09/DSA-in-JAVA/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ish-g09/DSA-in-JAVA/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/ish-g09/DSA-in-JAVA/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3870-count-commas-in-range](https://github.com/ish-g09/DSA-in-JAVA/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/ish-g09/DSA-in-JAVA/tree/main/3871-count-commas-in-range-ii/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/ish-g09/DSA-in-JAVA/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
@@ -398,6 +399,7 @@ This repository contains solutions covering a wide range of DSA topics, includin
 | [1927-sum-game](https://github.com/ish-g09/DSA-in-JAVA/tree/main/1927-sum-game/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ish-g09/DSA-in-JAVA/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ish-g09/DSA-in-JAVA/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/ish-g09/DSA-in-JAVA/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ish-g09/DSA-in-JAVA/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
