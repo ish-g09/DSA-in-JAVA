@@ -119,6 +119,7 @@ This repository contains solutions covering a wide range of DSA topics, includin
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/ish-g09/DSA-in-JAVA/tree/main/2433-find-the-original-array-of-prefix-xor/) | Medium |
 | [2451-odd-string-difference](https://github.com/ish-g09/DSA-in-JAVA/tree/main/2451-odd-string-difference/) | Easy |
 | [2672-number-of-adjacent-elements-with-the-same-color](https://github.com/ish-g09/DSA-in-JAVA/tree/main/2672-number-of-adjacent-elements-with-the-same-color/) | Medium |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ish-g09/DSA-in-JAVA/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ish-g09/DSA-in-JAVA/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3046-split-the-array](https://github.com/ish-g09/DSA-in-JAVA/tree/main/3046-split-the-array/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ish-g09/DSA-in-JAVA/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
@@ -170,6 +171,7 @@ This repository contains solutions covering a wide range of DSA topics, includin
 | [1512-number-of-good-pairs](https://github.com/ish-g09/DSA-in-JAVA/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/ish-g09/DSA-in-JAVA/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2451-odd-string-difference](https://github.com/ish-g09/DSA-in-JAVA/tree/main/2451-odd-string-difference/) | Easy |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ish-g09/DSA-in-JAVA/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ish-g09/DSA-in-JAVA/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ish-g09/DSA-in-JAVA/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3046-split-the-array](https://github.com/ish-g09/DSA-in-JAVA/tree/main/3046-split-the-array/) | Easy |
@@ -520,4 +522,12 @@ This repository contains solutions covering a wide range of DSA topics, includin
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/ish-g09/DSA-in-JAVA/tree/main/1021-remove-outermost-parentheses/) | Easy |
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ish-g09/DSA-in-JAVA/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ish-g09/DSA-in-JAVA/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 <!---LeetCode Topics End-->
