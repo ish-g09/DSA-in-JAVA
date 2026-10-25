@@ -44,6 +44,7 @@ This repository contains solutions covering a wide range of DSA topics, includin
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ish-g09/DSA-in-JAVA/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/ish-g09/DSA-in-JAVA/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [1927-sum-game](https://github.com/ish-g09/DSA-in-JAVA/tree/main/1927-sum-game/) | Medium |
+| [2409-count-days-spent-together](https://github.com/ish-g09/DSA-in-JAVA/tree/main/2409-count-days-spent-together/) | Easy |
 | [2451-odd-string-difference](https://github.com/ish-g09/DSA-in-JAVA/tree/main/2451-odd-string-difference/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ish-g09/DSA-in-JAVA/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ish-g09/DSA-in-JAVA/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -280,6 +281,7 @@ This repository contains solutions covering a wide range of DSA topics, includin
 | [1512-number-of-good-pairs](https://github.com/ish-g09/DSA-in-JAVA/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1927-sum-game](https://github.com/ish-g09/DSA-in-JAVA/tree/main/1927-sum-game/) | Medium |
 | [2396-strictly-palindromic-number](https://github.com/ish-g09/DSA-in-JAVA/tree/main/2396-strictly-palindromic-number/) | Medium |
+| [2409-count-days-spent-together](https://github.com/ish-g09/DSA-in-JAVA/tree/main/2409-count-days-spent-together/) | Easy |
 | [2469-convert-the-temperature](https://github.com/ish-g09/DSA-in-JAVA/tree/main/2469-convert-the-temperature/) | Easy |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/ish-g09/DSA-in-JAVA/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ish-g09/DSA-in-JAVA/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
