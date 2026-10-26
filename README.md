@@ -106,6 +106,7 @@ This repository contains solutions covering a wide range of DSA topics, includin
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ish-g09/DSA-in-JAVA/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1094-car-pooling](https://github.com/ish-g09/DSA-in-JAVA/tree/main/1094-car-pooling/) | Medium |
 | [1109-corporate-flight-bookings](https://github.com/ish-g09/DSA-in-JAVA/tree/main/1109-corporate-flight-bookings/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/ish-g09/DSA-in-JAVA/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/ish-g09/DSA-in-JAVA/tree/main/1353-maximum-number-of-events-that-can-be-attended/) | Medium |
 | [1389-create-target-array-in-the-given-order](https://github.com/ish-g09/DSA-in-JAVA/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ish-g09/DSA-in-JAVA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -255,6 +256,7 @@ This repository contains solutions covering a wide range of DSA topics, includin
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0538-convert-bst-to-greater-tree](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/ish-g09/DSA-in-JAVA/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/ish-g09/DSA-in-JAVA/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/ish-g09/DSA-in-JAVA/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [2049-count-nodes-with-the-highest-score](https://github.com/ish-g09/DSA-in-JAVA/tree/main/2049-count-nodes-with-the-highest-score/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/ish-g09/DSA-in-JAVA/tree/main/3310-remove-methods-from-project/) | Medium |
@@ -308,6 +310,7 @@ This repository contains solutions covering a wide range of DSA topics, includin
 | ------- | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0994-rotting-oranges](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0994-rotting-oranges/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/ish-g09/DSA-in-JAVA/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/ish-g09/DSA-in-JAVA/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/ish-g09/DSA-in-JAVA/tree/main/3310-remove-methods-from-project/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ish-g09/DSA-in-JAVA/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
@@ -321,6 +324,7 @@ This repository contains solutions covering a wide range of DSA topics, includin
 | [0661-image-smoother](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0661-image-smoother/) | Easy |
 | [0835-image-overlap](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0835-image-overlap/) | Medium |
 | [0994-rotting-oranges](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0994-rotting-oranges/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/ish-g09/DSA-in-JAVA/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1861-rotating-the-box](https://github.com/ish-g09/DSA-in-JAVA/tree/main/1861-rotating-the-box/) | Medium |
 | [3071-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/ish-g09/DSA-in-JAVA/tree/main/3071-minimum-operations-to-write-the-letter-y-on-a-grid/) | Medium |
 | [3446-sort-matrix-by-diagonals](https://github.com/ish-g09/DSA-in-JAVA/tree/main/3446-sort-matrix-by-diagonals/) | Medium |
@@ -539,5 +543,6 @@ This repository contains solutions covering a wide range of DSA topics, includin
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1254-number-of-closed-islands](https://github.com/ish-g09/DSA-in-JAVA/tree/main/1254-number-of-closed-islands/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ish-g09/DSA-in-JAVA/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 <!---LeetCode Topics End-->
