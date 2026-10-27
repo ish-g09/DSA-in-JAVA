@@ -44,6 +44,7 @@ This repository contains solutions covering a wide range of DSA topics, includin
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ish-g09/DSA-in-JAVA/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/ish-g09/DSA-in-JAVA/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [1927-sum-game](https://github.com/ish-g09/DSA-in-JAVA/tree/main/1927-sum-game/) | Medium |
+| [2390-removing-stars-from-a-string](https://github.com/ish-g09/DSA-in-JAVA/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2409-count-days-spent-together](https://github.com/ish-g09/DSA-in-JAVA/tree/main/2409-count-days-spent-together/) | Easy |
 | [2451-odd-string-difference](https://github.com/ish-g09/DSA-in-JAVA/tree/main/2451-odd-string-difference/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ish-g09/DSA-in-JAVA/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -336,6 +337,7 @@ This repository contains solutions covering a wide range of DSA topics, includin
 | [0735-asteroid-collision](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0735-asteroid-collision/) | Medium |
 | [1094-car-pooling](https://github.com/ish-g09/DSA-in-JAVA/tree/main/1094-car-pooling/) | Medium |
 | [1389-create-target-array-in-the-given-order](https://github.com/ish-g09/DSA-in-JAVA/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
+| [2390-removing-stars-from-a-string](https://github.com/ish-g09/DSA-in-JAVA/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ish-g09/DSA-in-JAVA/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/ish-g09/DSA-in-JAVA/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Prefix Sum
@@ -380,6 +382,7 @@ This repository contains solutions covering a wide range of DSA topics, includin
 | [0907-sum-of-subarray-minimums](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/ish-g09/DSA-in-JAVA/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [2104-sum-of-subarray-ranges](https://github.com/ish-g09/DSA-in-JAVA/tree/main/2104-sum-of-subarray-ranges/) | Medium |
+| [2390-removing-stars-from-a-string](https://github.com/ish-g09/DSA-in-JAVA/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
