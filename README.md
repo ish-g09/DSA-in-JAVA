@@ -137,6 +137,7 @@ This repository contains solutions covering a wide range of DSA topics, includin
 | [3731-find-missing-elements](https://github.com/ish-g09/DSA-in-JAVA/tree/main/3731-find-missing-elements/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/ish-g09/DSA-in-JAVA/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/ish-g09/DSA-in-JAVA/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/ish-g09/DSA-in-JAVA/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/ish-g09/DSA-in-JAVA/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -306,6 +307,7 @@ This repository contains solutions covering a wide range of DSA topics, includin
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/ish-g09/DSA-in-JAVA/tree/main/2044-count-number-of-maximum-bitwise-or-subsets/) | Medium |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/ish-g09/DSA-in-JAVA/tree/main/2433-find-the-original-array-of-prefix-xor/) | Medium |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ish-g09/DSA-in-JAVA/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/ish-g09/DSA-in-JAVA/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -330,6 +332,7 @@ This repository contains solutions covering a wide range of DSA topics, includin
 | [3071-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/ish-g09/DSA-in-JAVA/tree/main/3071-minimum-operations-to-write-the-letter-y-on-a-grid/) | Medium |
 | [3446-sort-matrix-by-diagonals](https://github.com/ish-g09/DSA-in-JAVA/tree/main/3446-sort-matrix-by-diagonals/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ish-g09/DSA-in-JAVA/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/ish-g09/DSA-in-JAVA/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -437,6 +440,7 @@ This repository contains solutions covering a wide range of DSA topics, includin
 | [0877-stone-game](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0877-stone-game/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/ish-g09/DSA-in-JAVA/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
