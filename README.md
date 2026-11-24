@@ -31,6 +31,7 @@ This repository contains solutions covering a wide range of DSA topics, includin
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0020-valid-parentheses](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0049-group-anagrams/) | Medium |
 | [0071-simplify-path](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0071-simplify-path/) | Medium |
 | [0079-word-search](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0079-word-search/) | Medium |
@@ -372,6 +373,7 @@ This repository contains solutions covering a wide range of DSA topics, includin
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0020-valid-parentheses/) | Easy |
 | [0071-simplify-path](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0071-simplify-path/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0155-min-stack/) | Medium |
@@ -538,6 +540,7 @@ This repository contains solutions covering a wide range of DSA topics, includin
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0020-valid-parentheses/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/ish-g09/DSA-in-JAVA/tree/main/1021-remove-outermost-parentheses/) | Easy |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
