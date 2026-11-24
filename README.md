@@ -129,6 +129,7 @@ This repository contains solutions covering a wide range of DSA topics, includin
 | [3046-split-the-array](https://github.com/ish-g09/DSA-in-JAVA/tree/main/3046-split-the-array/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ish-g09/DSA-in-JAVA/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3071-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/ish-g09/DSA-in-JAVA/tree/main/3071-minimum-operations-to-write-the-letter-y-on-a-grid/) | Medium |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/ish-g09/DSA-in-JAVA/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3411-maximum-subarray-with-equal-products](https://github.com/ish-g09/DSA-in-JAVA/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3446-sort-matrix-by-diagonals](https://github.com/ish-g09/DSA-in-JAVA/tree/main/3446-sort-matrix-by-diagonals/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/ish-g09/DSA-in-JAVA/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
