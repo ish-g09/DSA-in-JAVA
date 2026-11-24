@@ -59,6 +59,7 @@ This repository contains solutions covering a wide range of DSA topics, includin
 | ------- | ------- |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/ish-g09/DSA-in-JAVA/tree/main/2044-count-number-of-maximum-bitwise-or-subsets/) | Medium |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ish-g09/DSA-in-JAVA/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/ish-g09/DSA-in-JAVA/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/ish-g09/DSA-in-JAVA/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/ish-g09/DSA-in-JAVA/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 ## Array
@@ -128,6 +129,7 @@ This repository contains solutions covering a wide range of DSA topics, includin
 | [3046-split-the-array](https://github.com/ish-g09/DSA-in-JAVA/tree/main/3046-split-the-array/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ish-g09/DSA-in-JAVA/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3071-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/ish-g09/DSA-in-JAVA/tree/main/3071-minimum-operations-to-write-the-letter-y-on-a-grid/) | Medium |
+| [3411-maximum-subarray-with-equal-products](https://github.com/ish-g09/DSA-in-JAVA/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3446-sort-matrix-by-diagonals](https://github.com/ish-g09/DSA-in-JAVA/tree/main/3446-sort-matrix-by-diagonals/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/ish-g09/DSA-in-JAVA/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ish-g09/DSA-in-JAVA/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
@@ -293,6 +295,7 @@ This repository contains solutions covering a wide range of DSA topics, includin
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/ish-g09/DSA-in-JAVA/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ish-g09/DSA-in-JAVA/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ish-g09/DSA-in-JAVA/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/ish-g09/DSA-in-JAVA/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ish-g09/DSA-in-JAVA/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3516-find-closest-person](https://github.com/ish-g09/DSA-in-JAVA/tree/main/3516-find-closest-person/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ish-g09/DSA-in-JAVA/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
@@ -426,6 +429,7 @@ This repository contains solutions covering a wide range of DSA topics, includin
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ish-g09/DSA-in-JAVA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/ish-g09/DSA-in-JAVA/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/ish-g09/DSA-in-JAVA/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -508,6 +512,7 @@ This repository contains solutions covering a wide range of DSA topics, includin
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/ish-g09/DSA-in-JAVA/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
+| [3411-maximum-subarray-with-equal-products](https://github.com/ish-g09/DSA-in-JAVA/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
